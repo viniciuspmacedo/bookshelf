@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="api_result">A pesquisa retornou %1$s livros</string>
+    <string name="loading_failed">Erro ao carregar</string>
+    <string name="loading">Carregando...</string>
+    <string name="search_icon_description">Lupa de pesquisa</string>
+    <string name="search_label">O que você procura?</string>
+    <string name="start_screen">Sua pesquisa aparecerá aqui</string>
+</resources>
